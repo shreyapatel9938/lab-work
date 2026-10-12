@@ -1,3 +1,5 @@
+#lab work 1.2:
+
 #Question 1:
 
 print("\nPython","Programming","Language",sep="-")
