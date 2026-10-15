@@ -45,5 +45,5 @@ elif(num_1 == num_3 == num_4 and num_1 >num_2):
 elif(num_2 == num_3 == num_4 and num_2 >num_1):
     print("Number 2, Number 3 and Number 4 are equal and greatest.")
     
-elif(num_1 == num_2 == num_3 == num_4):
+else:
     print("All four numbers are equal.")
